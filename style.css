@@ -97,6 +97,9 @@ h1:hover {
   height: 3.2rem;
 }
 
+h2 {
+  font-size: 14px;
+}
 
 @media (max-width: 560px) {
   .container {
